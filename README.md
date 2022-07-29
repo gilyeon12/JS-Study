@@ -8,7 +8,7 @@
 |5| :white_check_mark: | [표현식과 문](표현식과-문.md) | 2022-07-26 |
 |6| :white_check_mark: | [데이터 타입](데이터-타입.md) | 2022-07-27 |
 |7| :white_check_mark: | [연산자](연산자.md) | 2022-07-28 |
-|8| :white_large_square: | [제어문](제어문.md) | |
+|8| :white_check_mark: | [제어문](제어문.md) | 2022-07-29 |
 |9| :white_large_square: | [타입 변환과 단축 평가](타입-변환과-단축-평가.md) | |
 |10| :white_large_square: | [객체 리터럴](객체-리터럴.md) | |
 |11| :white_large_square: | [원시 값과 객체의 비교](원시-값과-객체의-비교.md) | |
