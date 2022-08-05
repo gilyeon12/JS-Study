@@ -12,6 +12,6 @@
 |9| :white_check_mark: | [타입 변환과 단축 평가](타입-변환과-단축-평가.md) | 2022-08-01 |
 |10| :white_check_mark: | [객체 리터럴](객체-리터럴.md) | 2022-08-02 |
 |11| :white_check_mark: | [원시 값과 객체의 비교](원시-값과-객체의-비교.md) | 2022-08-03 |
-|12| :white_large_square: | [함수](함수.md) | |
+|12| :white_check_mark: | [함수](함수.md) | 2022-08-05 |
 |13| :white_large_square: | [스코프](스코프.md) | |
 |14| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
