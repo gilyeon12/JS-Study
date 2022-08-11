@@ -14,9 +14,9 @@
 |11| :white_check_mark: | [원시 값과 객체의 비교](원시-값과-객체의-비교.md) | 2022-08-03 |
 |12| :white_check_mark: | [함수](함수.md) | 2022-08-05 |
 |13| :white_check_mark: | [스코프](스코프.md) | 2022-08-08 |
-|14| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|15| :white_large_square: | [let,const 키워드와 블록 레벨 스코프](let-const-키워드와-블록-레벨-스코프.md) | |
-|16| :white_large_square: | [프로퍼티 어트리뷰트](프로퍼티-어트리뷰트.md) | |
+|14| :white_check_mark: | [전역 변수의 문제점](전역-변수의-문제점.md) | 2022-08-09 |
+|15| :white_check_mark: | [let,const 키워드와 블록 레벨 스코프](let-const-키워드와-블록-레벨-스코프.md) | 2022-08-10 |
+|16| :white_check_mark: | [프로퍼티 어트리뷰트](프로퍼티-어트리뷰트.md) | 2022-08-11 |
 |17| :white_large_square: | [생성자 함수에 의한 객체 생성](생성자-함수에-의한-객체-생성.md) | |
 |18| :white_large_square: | [함수와 일급 객체](함수와-일급-객체.md) | |
 |19| :white_large_square: | [프로토타입](프로토타입.md) | |
