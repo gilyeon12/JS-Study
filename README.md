@@ -17,36 +17,7 @@
 |14| :white_check_mark: | [전역 변수의 문제점](전역-변수의-문제점.md) | 2022-08-09 |
 |15| :white_check_mark: | [let,const 키워드와 블록 레벨 스코프](let-const-키워드와-블록-레벨-스코프.md) | 2022-08-10 |
 |16| :white_check_mark: | [프로퍼티 어트리뷰트](프로퍼티-어트리뷰트.md) | 2022-08-11 |
-|17| :white_large_square: | [생성자 함수에 의한 객체 생성](생성자-함수에-의한-객체-생성.md) | |
-|18| :white_large_square: | [함수와 일급 객체](함수와-일급-객체.md) | |
+|17| :white_check_mark: | [생성자 함수에 의한 객체 생성](생성자-함수에-의한-객체-생성.md) | 2022-08-16 |
+|18| :white_check_mark: | [함수와 일급 객체](함수와-일급-객체.md) | 2022-08-18 |
 |19| :white_large_square: | [프로토타입](프로토타입.md) | |
 |20| :white_large_square: | [strict mode](strict-mode.md) | |
-|21| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|22| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|23| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|24| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|25| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|26| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|27| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|28| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|29| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|30| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|31| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|32| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|33| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|34| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|35| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|36| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|37| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|38| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|39| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|40| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|41| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|42| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|43| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|44| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|45| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|46| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|47| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|48| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
-|49| :white_large_square: | [전역 변수의 문제점](전역-변수의-문제점.md) | |
