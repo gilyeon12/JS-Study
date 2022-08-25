@@ -19,5 +19,5 @@
 |16| :white_check_mark: | [프로퍼티 어트리뷰트](프로퍼티-어트리뷰트.md) | 2022-08-11 |
 |17| :white_check_mark: | [생성자 함수에 의한 객체 생성](생성자-함수에-의한-객체-생성.md) | 2022-08-16 |
 |18| :white_check_mark: | [함수와 일급 객체](함수와-일급-객체.md) | 2022-08-18 |
-|19| :white_large_square: | [프로토타입](프로토타입.md) | |
-|20| :white_large_square: | [strict mode](strict-mode.md) | |
+|19| :white_check_mark:: | [프로토타입](프로토타입.md) | 2022-08-23 |
+|20| :white_check_mark: | [strict mode](strict-mode.md) | 2022-08-25 |
