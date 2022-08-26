@@ -21,3 +21,4 @@
 |18| :white_check_mark: | [함수와 일급 객체](함수와-일급-객체.md) | 2022-08-18 |
 |19| :white_check_mark:: | [프로토타입](프로토타입.md) | 2022-08-23 |
 |20| :white_check_mark: | [strict mode](strict-mode.md) | 2022-08-25 |
+|21| :white_check_mark: | [빌트인 객체](빌트인-객체.md) | 2022-08-26 |
