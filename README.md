@@ -23,3 +23,4 @@
 |20| :white_check_mark: | [strict mode](strict-mode.md) | 2022-08-25 |
 |21| :white_check_mark: | [빌트인 객체](빌트인-객체.md) | 2022-08-26 |
 |22| :white_check_mark: | [this](this.md) | 2022-08-29 |
+|23| :white_check_mark: | [실행 컨텍스트](실행-컨텍스트.md) | 2022-08-31 |
